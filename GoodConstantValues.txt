@@ -1,0 +1,14 @@
+Sine wave disturbance:
+kp = 0.085
+ki = 0.0001
+kd = 0.018
+
+Square wave disturbance:
+kp = 0.085
+ki = 0
+kd = 0
+
+Linear line:
+kp = 0.09
+ki = 0.003
+kd = 0
