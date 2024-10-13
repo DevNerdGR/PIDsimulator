@@ -20,6 +20,12 @@ PID Simulator is a simple python script that is able to simulate the behaviour o
 1. Open main.py in your preferred code editor
 2. Change the values of the variables accordingly
 3. Run the script and observe the output!
+### Description of files provided in the repository
+- **GoodConstantValues.txt**: A list of Kp, Ki, Kd values that work well with their respective SP types
+- **README.md**: this file you are currently viewing
+- **SineWavePID.gif**: sample output of the program simulating the behaviour of the PID controller (Kp, Ki, Kd values are the ones provided in GoodConstantValues.txt) in response to a sine wave SP
+- **main.py**: contains the simulation script
+
 
 ## Theory
 This program simulates the behaviour of a **Proportional, Integral, Derivative Controller**, an instrument that is used to control behaviours of systems in many applications. In many cases, not all three components of the controller need to be used.
